@@ -1,0 +1,8 @@
+# Code Owners
+# Only Ervin Remus Radosavlevici can approve changes to core files.
+* @ErvinRadosavlevici
+
+# Critical paths
+LICENSE @ErvinRadosavlevici
+legal/NDA.md @ErvinRadosavlevici
+README.md @ErvinRadosavlevici
